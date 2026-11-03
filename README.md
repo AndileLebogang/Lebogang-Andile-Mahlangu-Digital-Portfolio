@@ -97,16 +97,6 @@ This experience showed me that interviewing is a skill that improves with practi
 This experience taught me that deployment requires careful attention to detail. I learned the importance of file organisation, correct path referencing, and patience when debugging live hosting issues. It also increased my confidence in publishing professional web projects online.
 
 
-# AGILE TEAM CHARTER
-## Key Structural Elements of a Functional Agile Team Charter Include:
-- **Purpose & Mission:** Articulate the specific problem being solved, the target audience, and clear metrics that define team success.
-- **Roles & Accountability:** Clarifies cross-functional roles (e.g., Product Owner, Agile Lead, Operational Specialist, Developers/Analysts) to eliminate ambiguity in ownership.
-- **Working Agreements:** Codifies daily behavioral norms, meeting discipline, timeboxing, and standards for psychological safety.
-- **Cadence & Ceremonies:** Establishes the schedule, frequency, and time commitments for sprint planning, daily stand-ups, and retrospectives.
-- **Definition od Done (DoD):** Sets unambiguous, objective quality thresholds that any deliverable must meet before being marked complete.
-- **Decision-Making & Escalation:** Outlines how the team reaches consensus, when leardership steps in, and how deadlocks are resolved without stalling momentum.
-
-
 
 
 
@@ -115,29 +105,33 @@ This experience taught me that deployment requires careful attention to detail. 
 
 
 # PRP370S ASSESSMENT 2: AGILE PORTFOLIO OF EVIDENCE
+## Agile Team Charter: Evidence and Reflection
 
-This section follows the October 2026 Project Presentation 3 assessment brief. Each of the five assessment areas requires **evidence (10%)** and **reflection (10%)**. Evidence must come from actual project work; the prompts below are not substitutes for screenshots, documents, or personal reflections.
+### Evidence
+- **Project/team:** Pretoria Prime Recycling
+- **Charter artefact:**<img width="1032" height="882" alt="Agile" src="https://github.com/user-attachments/assets/67e6da98-dd6e-49fc-bbf3-048ee5e114f7" />
 
-## 1. Agile Team Charter: Evidence and Reflection
 
-The Agile Team Charter overview and its structural elements are already documented above in the existing **AGILE TEAM CHARTER** section.
+- **Your contribution:** My contribution was to lead the product side of the project, understand what customers need, guide the team on what to develop, prioritise tasks, and approve the final work.
 
-### Evidence (10%)
-- **Project/team:** [Add your project name and team context.]
-- **Charter artefact:** [Link to your actual charter document, screenshot, or repository file.]
-- **Your contribution:** [Explain which charter elements you helped define.]
 
-### Reflection (10%)
-- **Situation:** [What did the team need to agree on?]
-- **Task:** [What was your responsibility?]
-- **Action:** [How did you help define roles, working agreements, or decisions?]
-- **Result and learning:** [What changed, and what would you improve?]
+### Reflection
+**Situation:** 
+- The team needed to agree on the purpose and vision of Pretoria Prime Recycling, the responsibilities of each team member, and how we would work together to achieve our project objectives. We also needed to agree on how tasks would be allocated, how decisions would be made, and how communication would take place throughout the project.
+  
+**Task:** 
+- As the Product Owner, my responsibility was to ensure that the project had a clear direction and that the team's activities were aligned with the needs of our target customers in Silver Lakes, Pretoria. I was responsible for managing the product backlog, defining user stories, prioritising tasks, and ensuring that the project focused on solving the waste management and recycling challenges faced by homeowners.
 
-## 2. User Stories and Tasks: Evidence and Reflection
+**Action:** 
+- I helped define team responsibilities, prioritise project tasks, and establish clear communication and working agreements. I also guided product-related decisions to keep the team focused on its objectives.
+  
+**Result and learning:** 
+- The team gained a clearer understanding of individual responsibilities, improving communication and accountability. I learned the importance of teamwork, leadership, and effective decision-making.
 
-A user story describes a feature from the user's point of view. Tasks break that story into smaller pieces of work.
+## User Stories and Tasks
 
-### Evidence (10%)
+
+### Evidence
 Use real stories from your project, for example in the format:
 > As a [user role], I want [capability], so that [benefit].
 
